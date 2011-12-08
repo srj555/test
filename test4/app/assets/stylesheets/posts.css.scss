@@ -1,0 +1,30 @@
+// Place all the styles related to the posts controller here.
+// They will automatically be included in application.css.
+// You can use Sass (SCSS) here: http://sass-lang.com/p {
+
+body { background-color:black; color: #FF8C00 }
+
+p
+{
+	color: #FF8C00;
+}
+
+a 
+{
+	color: white;
+}
+
+h1
+{
+ color :#FF8C00 ;
+
+}
+h2
+{
+ color: white;
+}
+#recent_episodes { float: right; border: solid 1px white; margin: 8px 0 16px 16px; padding: 4px; background-color: #black; }
+#recent_episodes h3 { margin: 0; font-size: 1em;color:#FF8C00 }
+#recent_episodes ul { list-style: none; margin-left: 8px; padding-left: 0; }
+#recent_episodes a { font-size: 0.9em;color:white}
+
